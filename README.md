@@ -14,7 +14,7 @@ The beginning of a CTF repo for team OMGWTFBBQ
 2. [Website Forensics](#website-forensics)
 ---------------
 
-Have Your Tried?
+Have You Tried?
 -----------------------
 * file
 ```
