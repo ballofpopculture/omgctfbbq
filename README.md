@@ -54,12 +54,14 @@ Images
 -----------------------
 
 * EOG
+
 Image viewer, allows you to go through a .gif image by image.
 ```
 eog [filename]
 ```
 
 * ImageMagick
+
 Turn .gif files into a set of images (as numbered files)
 ```
 convert [.gif file] %02d.gif
