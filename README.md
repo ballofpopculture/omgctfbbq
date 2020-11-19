@@ -5,7 +5,7 @@ OMGCTFBBQ
 
 --------------------------
 
-The beginning of a CTF repo for team OMGCTFBBQ
+The beginning of a WTF repo for team OMGCTFBBQ
 
 ---------------
 # Table of Contents
