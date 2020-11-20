@@ -14,6 +14,7 @@ The beginning of a WTF repo for team OMGCTFBBQ
 2. [Website Forensics](#website-forensics)
 3. [Passwords](#passwords)
 4. [Images](#images)
+5. [pwn](#pwn)
 ---------------
 
 Have You Tried?
@@ -71,3 +72,14 @@ Convert white to transparent
 ```
 convert [filename] -transparent white [new filename]
 ```
+
+pwn
+-----------------------
+
+Steps
+* chmod +x
+* strings file
+* ltrace file
+* hopper file
+* Binary Ninja?
+* objdump -D file | less
