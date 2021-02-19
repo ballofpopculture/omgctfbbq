@@ -83,3 +83,32 @@ Steps
 * hopper file
 * Binary Ninja?
 * objdump -D file | less
+
+* gdb
+Disassemble
+```
+disassemble *function <---usually main
+```
+
+Breakpoint
+```
+break *[function]
+```
+Run (usally after setting a breakpoint)
+```
+run [args]
+```
+Registers
+This is where the party starts.
+```
+info registers
+```
+Step Into/Next Instruction
+```
+si/ni - Use depends on stepping through the current functiono, or stepping into other functions.
+```
+Changing a Register (EAX, for instance)
+```
+set $eax=0
+```
+
