@@ -89,6 +89,9 @@ Machine Gunning your Buffer Overflow
 ```
 for i in {20..28}; do echo $i; python -c "print 'A'*$i" | ./program_to_run_against ; done
 ```
+```
+dmesg | tail   #shows where the segfault happened
+````
 
 
 gdb
