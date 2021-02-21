@@ -15,6 +15,7 @@ The beginning of a WTF repo for team OMGCTFBBQ
 3. [Passwords](#passwords)
 4. [Images](#images)
 5. [pwn](#pwn)
+6. [gdb](#gdb)
 ---------------
 
 Have You Tried?
@@ -84,7 +85,15 @@ Steps
 * Binary Ninja?
 * objdump -D file | less
 
-* gdb
+Machine Gunning your Buffer Overflow
+```
+for i in {20..28}; do echo $i; python -c "print 'A'*$i" | ./program_to_run_against ; done
+```
+
+
+gdb
+-----------------------
+Using gdb
 Disassemble
 ```
 disassemble *function <---usually main
