@@ -54,6 +54,14 @@ john --wordlist=[password.lst] hashfile
 
 Images
 -----------------------
+* Foremost
+```
+foremost
+```
+* Binwalk
+```
+binwalk
+````
 
 * EOG
 
