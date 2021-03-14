@@ -54,6 +54,10 @@ john --wordlist=[password.lst] hashfile
 
 Images
 -----------------------
+* Digital Invisible Ink Toolkit
+```
+http://diit.sourceforge.net/
+```
 * Foremost
 ```
 foremost
