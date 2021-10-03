@@ -38,4 +38,9 @@ This tends to be a programming challenge masked as a web exploitation challenge.
 Input Hijacking
 -----------------------
 
+SQL Injection
+-----------------------
+[example](https://jupiter.challenges.picoctf.org/problem/39720/)
+
+
 
