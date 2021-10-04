@@ -2,7 +2,7 @@ Enumeration and Exploitation
 ===============
 
 * Can you see the source code?
-* Can you decompile and see the court code? (.pyc and some Java files, for example)
+* Can you decompile and see the source code? (.pyc and some Java files, for example)
 * Do you need to write additional code?
 * Is it an ELF binary? (unix command: file [filename])
 
