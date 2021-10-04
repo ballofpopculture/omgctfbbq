@@ -8,7 +8,7 @@ Enumeration and Exploitation
 
 Source Code Challenges
 -----------------------
-[example 1]()
+[example 1](https://github.com/ballofpopculture/omgctfbbq/blob/main/codebits/crackme.py)
 Usually the mode straightforward of the E&E challenges. Generally the code does something simple (asks for a password, then outputs "correct" when the password has been entered, for example). 
 
 Things to look for
