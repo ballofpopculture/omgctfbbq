@@ -42,6 +42,9 @@ Get uniq values in a category (How many ips were there?)
 Get how many times did GET/POST run?
 `cat logfile.log | awk '{print $6}' | sort | uniq –c`
 
+Split on delim, get specific spot in delim array.  (Then get uniqs) GOOD FOR UNIQUE IPs.
+`cat access.log | cut -d " " -f 1 | sort | uniq -c | wc -l `
+
 #### (For nginx logs)
 
 
